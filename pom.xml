@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.csusm</groupId>
-    <artifactId>HelloCI</artifactId>
+    <artifactId>SE-481-Continuous-Integration</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
