@@ -6,8 +6,8 @@ public class HelloWorldTest {
         Assert.assertEquals(1, 1);
     }
 
-//    @Test
-//    public void testFail() {
-//        Assert.assertEquals(1, 2);
-//    }
+    @Test
+    public void testFail() {
+        Assert.assertEquals(1, 2);
+    }
 }
