@@ -10,4 +10,9 @@ public class HelloWorldTest {
     public void testFail() {
         Assert.assertEquals(1, 2);
     }
+
+    @Test
+    public void testFail2() {
+        Assert.assertEquals(1, 3);
+    }
 }
