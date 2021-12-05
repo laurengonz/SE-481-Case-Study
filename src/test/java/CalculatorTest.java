@@ -15,7 +15,7 @@ public class CalculatorTest {
     @Test
     public void addPositiveNumbers() {
         double result = calculator.add(1, 1);
-        double expected = 2.0;
+        double expected = 3.0;
         Assert.assertEquals(expected, result, 0.0);
     }
 
